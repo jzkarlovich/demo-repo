@@ -20,3 +20,5 @@
 11. Mullvad-VPN
 12. Vim-Plug
 13. Ranger
+14. xclip
+
